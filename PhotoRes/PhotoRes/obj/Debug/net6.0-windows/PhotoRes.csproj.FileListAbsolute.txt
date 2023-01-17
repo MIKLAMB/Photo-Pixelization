@@ -1,0 +1,17 @@
+D:\Vs\2022\project\PhotoRes\PhotoRes\bin\Debug\net6.0-windows\PhotoRes.exe
+D:\Vs\2022\project\PhotoRes\PhotoRes\bin\Debug\net6.0-windows\PhotoRes.deps.json
+D:\Vs\2022\project\PhotoRes\PhotoRes\bin\Debug\net6.0-windows\PhotoRes.runtimeconfig.json
+D:\Vs\2022\project\PhotoRes\PhotoRes\bin\Debug\net6.0-windows\PhotoRes.dll
+D:\Vs\2022\project\PhotoRes\PhotoRes\bin\Debug\net6.0-windows\PhotoRes.pdb
+D:\Vs\2022\project\PhotoRes\PhotoRes\obj\Debug\net6.0-windows\PhotoRes.csproj.AssemblyReference.cache
+D:\Vs\2022\project\PhotoRes\PhotoRes\obj\Debug\net6.0-windows\PhotoRes.csproj.GenerateResource.cache
+D:\Vs\2022\project\PhotoRes\PhotoRes\obj\Debug\net6.0-windows\PhotoRes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vs\2022\project\PhotoRes\PhotoRes\obj\Debug\net6.0-windows\PhotoRes.AssemblyInfoInputs.cache
+D:\Vs\2022\project\PhotoRes\PhotoRes\obj\Debug\net6.0-windows\PhotoRes.AssemblyInfo.cs
+D:\Vs\2022\project\PhotoRes\PhotoRes\obj\Debug\net6.0-windows\PhotoRes.csproj.CoreCompileInputs.cache
+D:\Vs\2022\project\PhotoRes\PhotoRes\obj\Debug\net6.0-windows\PhotoRes.dll
+D:\Vs\2022\project\PhotoRes\PhotoRes\obj\Debug\net6.0-windows\refint\PhotoRes.dll
+D:\Vs\2022\project\PhotoRes\PhotoRes\obj\Debug\net6.0-windows\PhotoRes.pdb
+D:\Vs\2022\project\PhotoRes\PhotoRes\obj\Debug\net6.0-windows\PhotoRes.genruntimeconfig.cache
+D:\Vs\2022\project\PhotoRes\PhotoRes\obj\Debug\net6.0-windows\ref\PhotoRes.dll
+D:\Vs\2022\project\PhotoRes\PhotoRes\obj\Debug\net6.0-windows\PhotoRes.AAAAAAAAAAAH.resources
